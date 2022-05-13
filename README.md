@@ -42,11 +42,11 @@ No, I couldn't reach 75 percent accuracy.
 
 * What steps did you take to try and increase model performance?
 
-* dropped two features
+1-dropped two features
 
-* Increased the first hidden layer's neurons from 8 to 11
+2-Increased the first hidden layer's neurons from 8 to 11
 
-* added another hidden layer with three neurons
+3-added another hidden layer with three neurons
 
 ## Summary
 
