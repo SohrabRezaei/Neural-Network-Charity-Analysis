@@ -26,7 +26,6 @@ Status and ASK_AMT column should be removed because they create noise in the acc
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 At first, I started with 8 and 5 neurons, respectively, for the two hidden layers. Then, I increased the neurons to 11 for the first hidden layer in order to get a 
-
 better model accuracy. Finally, I added another hidden layer with three neurons to further escalate the model's accuracy.
 
 ![image](https://user-images.githubusercontent.com/95439555/168326644-d3d72b0c-d4cc-45d8-8f6f-987dbc7d3170.png)
